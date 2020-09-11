@@ -15,7 +15,7 @@ extracted in task 1.
 6) Displaying Score counters.
 7) Music Sync with visuals, music will not play and virtual notes will not move until the player hits the stick 3 times to signal the begining and give the player time to be ready to play.
 
-The following specifies the name of the script that handles each task.
+The following table specifies the name of the script that handles each task.
 
 | Task  | Script Name |
 | ------------- | ------------- |
@@ -26,6 +26,12 @@ The following specifies the name of the script that handles each task.
 | Displaying Score Counters  | UpdateScoreDisp.cs  |
 | Music Sync with Visuals | SyncMaster.cs  |
 
+# Jam Mode Scripts:
+In jam sessions, the main task is to detect stick hit events with the instruments of the drum and play the sound of each instrument with the sound level being dependent on the strength of the hit from the player.
+The following table specifies the name of the script that handles each task.
+
+| Task  | Script Name |
+| Detection of (Stick-Instrument) hit events and playing sound | ReactHat.cs |
 
 # Submitted Version - Unity Project -
 https://we.tl/t-FsfIJ0fBAa
