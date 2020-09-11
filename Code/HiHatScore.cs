@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class ScoreManager : MonoBehaviour {
+public class HiHatScore : MonoBehaviour {
     public bool note = false;
     public bool startmusic = false;
     bool passed = false;
