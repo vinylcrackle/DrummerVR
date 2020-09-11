@@ -25,3 +25,7 @@ The following specifies the name of the script that handles each task.
 | Handling Score counter and Combo counter  | ScoreHandler.cs  |
 | Displaying Score Counters  | UpdateScoreDisp.cs  |
 | Music Sync with Visuals | SyncMaster.cs  |
+
+
+# Submitted Version - Unity Project -
+https://we.tl/t-FsfIJ0fBAa
