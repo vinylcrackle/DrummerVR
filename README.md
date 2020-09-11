@@ -19,9 +19,9 @@ The following specifies the name of the script that handles each task.
 
 | Task  | Script Name |
 | ------------- | ------------- |
-| Extraction of notes from .txt file and spawning them.  | INSTRUMENT_NAME+analyze.cs  |
-| Moving The game objects in space.  |  INSTRUMENT_NAME+notes.cs  |
+| Extraction of notes from .txt file and spawning them.  | INSTRUMENT + analyze.cs  |
+| Moving The game objects in 3D space.  |  Instrument + Notes.cs ex: HiHatsNotes |
 | Handling Score attempts  | ScoreManager.cs  |
 | Handling Score counter and Combo counter  | ScoreHandler.cs  |
-| Displaying Score Counters  | UpdateScore.cs  |
+| Displaying Score Counters  | ScoreDisp.cs  |
 | Music Sync with Visuals | SyncMaster.cs  |
