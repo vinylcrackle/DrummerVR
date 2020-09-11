@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class hatsanalyze : MonoBehaviour {
+public class HatsAnalyze : MonoBehaviour {
 
     public string txtFile = "hats";
     public double[] note_start; //Note Start Timings
