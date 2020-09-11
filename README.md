@@ -23,5 +23,5 @@ The following specifies the name of the script that handles each task.
 | Moving The game objects in 3D space.  |  Instrument + Notes.cs ex: HiHatsNotes |
 | Handling Score attempts  | ScoreManager.cs  |
 | Handling Score counter and Combo counter  | ScoreHandler.cs  |
-| Displaying Score Counters  | ScoreDisp.cs  |
+| Displaying Score Counters  | UpdateScoreDisp.cs  |
 | Music Sync with Visuals | SyncMaster.cs  |
