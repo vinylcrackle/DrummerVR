@@ -3,7 +3,7 @@ Game Dev Project - Tu Ilmenau
 
 # Game Mode Scripts
 
-In game mode, every level requires:
+In game mode, every level requires: (A level being a song)
 
 1) Extraction of the number of musical notes and their time of occurrence during the song.
 2) Spawning a group of game objects, where each corresponds to a musical note
