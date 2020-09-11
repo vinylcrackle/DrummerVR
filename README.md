@@ -31,6 +31,7 @@ In jam sessions, the main task is to detect stick hit events with the instrument
 The following table specifies the name of the script that handles each task.
 
 | Task  | Script Name |
+| ------------- | ------------- |
 | Detection of (Stick-Instrument) hit events and playing sound | ReactHat.cs |
 
 # Submitted Version - Unity Project -
