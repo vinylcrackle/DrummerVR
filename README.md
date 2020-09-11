@@ -13,7 +13,7 @@ extracted in task 1.
 4) Handling Score attempts
 5) Handling Score counter and Combo counter
 6) Displaying Score counters.
-7) Music Sync with visuals
+7) Music Sync with visuals, music will not play and virtual notes will not move until the player hits the stick 3 times to signal the begining and give the player time to be ready to play.
 
 The following specifies the name of the script that handles each task.
 
