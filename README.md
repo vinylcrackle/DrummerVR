@@ -1,8 +1,7 @@
 # DrummerVR
 Game Dev Project - Tu Ilmenau
 
-
-#Game Mode Scripts:
+# Game Mode Scripts
 
 In game mode, every level requires:
 
