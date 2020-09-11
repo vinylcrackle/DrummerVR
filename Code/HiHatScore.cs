@@ -16,6 +16,8 @@ public class HiHatScore : MonoBehaviour {
     GameObject Link;
     public float HatsSoundLevel = 1;
     int fxCount = 1;
+	
+	
     void Start () {
         HatsScore = 0;
         HatsMissed = 0;
@@ -23,7 +25,6 @@ public class HiHatScore : MonoBehaviour {
         
     }
 	
-
 	void Update () {
         GameObject handler = GameObject.Find("HiHat");
         StickDetect SD = handler.GetComponent<StickDetect>();
@@ -49,16 +50,11 @@ public class HiHatScore : MonoBehaviour {
         }
 
 	}
+	
     void Fixedupdate()
     {
         if (note)
             startmusic = true;
-    }
-
-    void OnCollisionEnter(Collision collision)
-    {
-        
-
     }
 
     void OnTriggerEnter(Collider trigger)
@@ -90,13 +86,5 @@ public class HiHatScore : MonoBehaviour {
                 HatsSoundLevel = 0.2f;
         }
     }
-
-    void OnCollisionExit(Collision collision)
-    {
-   
-
-    }
-
-
 
     }
