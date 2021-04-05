@@ -34,5 +34,3 @@ The following table specifies the name of the script that handles each task.
 | ------------- | ------------- |
 | Detection of (Stick-Instrument) hit events and playing sound | ReactHat.cs |
 
-# Submitted Version - Unity Project -
-https://we.tl/t-FsfIJ0fBAa
